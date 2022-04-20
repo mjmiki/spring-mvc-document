@@ -1,6 +1,5 @@
 # Spring-MVC-Demo
-
-[![](https://res.mowangblog.top/img/2021/10/website-blog-lightgrey)](https://mowangblog.top) [![](https://res.mowangblog.top/img/2021/10/bilibili-video-orange)](https://www.bilibili.com/video/BV1Ry4y1574R)
+ [![](https://res.mowangblog.top/img/2021/10/bilibili-video-orange)](https://www.bilibili.com/video/BV1Ry4y1574R)
 
 📓Spring MVC 框架使用演示和详细笔记
 
